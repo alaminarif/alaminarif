@@ -3,7 +3,7 @@
   ## Al Amin Arif
 #### Frondend Web Developer
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am working as a frontend web developer for the last two years. I always focus on high quality service and 100% client. Love to work with any front-end related projects in any latest front-end development technology.
 
 Skills: Html, Css, Javascript, jQuery, React, Wordpress
 
