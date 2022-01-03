@@ -1,4 +1,4 @@
-![Frondend Web Developer](https://media-exp1.licdn.com/dms/image/C4D22AQGYjNHU2Qz9RQ/feedshare-shrink_2048_1536/0/1634650066854?e=1637798400&v=beta&t=RjVkMRpI85aFu49PA3UWI1Na23_y4ipZzcHTXfiQC_U)
+![Frondend Web Developer]https://www.linkedin.com/posts/alamin-arif_activity-6856219318175195136-Ni7H
 # Hi there, 👋 I'm Al Amin Arif
 #### Frondend Web Developer
 
