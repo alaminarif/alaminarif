@@ -1,4 +1,4 @@
-![Frondend Web Developer] (https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/273506141_1298190954015149_68827113222251536_n.png?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeHkTTsL6IOotYA37IpxasIKAbseV4G88UMBux5XgbzxQzCHR4mBzFVLhFyi3yd6_add_uR6Go1wbG3thnqlfz41&_nc_ohc=DPRipsOc768AX_Dlup-&_nc_ht=scontent.fcgp17-1.fna&oh=00_AT-CtdDzRcDSxtk1awHsjUyGmUAoMEQwcJQw-wHuHfgVaA&oe=620ACE76)
+![Frondend Web Developer](https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/273506141_1298190954015149_68827113222251536_n.png?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeHkTTsL6IOotYA37IpxasIKAbseV4G88UMBux5XgbzxQzCHR4mBzFVLhFyi3yd6_add_uR6Go1wbG3thnqlfz41&_nc_ohc=DPRipsOc768AX_Dlup-&_nc_ht=scontent.fcgp17-1.fna&oh=00_AT-CtdDzRcDSxtk1awHsjUyGmUAoMEQwcJQw-wHuHfgVaA&oe=620ACE76)
 # Hi there, 👋 I'm Al Amin Arif
 #### Frondend Web Developer
 
