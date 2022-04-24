@@ -12,16 +12,11 @@ Skills: Html, Css, Javascript, jQuery, React, Wordpress
 - 💬 Ask me about Web Programming 
 
 [![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/alaminarif)
+[![](https://img.shields.io/badge/linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/alamin-arif/)
 [![](https://img.shields.io/badge/instagram-blue?style=for-the-badge)](https://www.instagram.com/alamin__arif/)
+[![](https://img.shields.io/badge/facebook-blue?style=for-the-badge)](https://www.facebook.com/alaminarif231)
+[![](https://img.shields.io/badge/twitter-blue?style=for-the-badge)](https://twitter.com/alamin__arif)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="background-color: green" >](https://github.com/alaminarif)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alamin-arif/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/alaminarif231)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alamin__arif/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/alamin__arif)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminarif)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alaminarif&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/alaminarif)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alaminarif)  
+ 
 
 
