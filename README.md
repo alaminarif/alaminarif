@@ -1,3 +1,5 @@
+![banner](https://user-images.githubusercontent.com/91391950/172764071-eb89088a-a793-42a6-a5bd-f1abce8550ae.png)
+
 ![Frondend Web Developer](https://drive.google.com/file/d/1o5tK2QjWedfOFVOE3ZxNYw2qfLnp9Mwz/view?usp=sharing)
 # Hi there, 👋 I'm Al Amin Arif
 #### Frondend Web Developer
