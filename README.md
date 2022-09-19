@@ -6,10 +6,10 @@
 
 I am working as a frontend web developer for the last two years. I always focus on high quality service and 100% client. Love to work with any front-end related projects in any latest front-end development technology.
 
-Skills: Html, Css, Javascript, jQuery, React, Wordpress
+Skills: Html, CSS, Bootstrap, Tailwind CSS Javascript, ReactJS, React Router, React Query, firebase Authentication, NodeJS, ExpressJS, MongoDB, Mongoose.
 
 - 🔭 I’m currently working on Fiverr 
-- 🌱 I’m currently learning Nodejs 
+- 🌱 I’m currently learning Redux 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Programming 
 
