@@ -15,7 +15,7 @@ Skills: Html, CSS, Bootstrap, Tailwind CSS Javascript, ReactJS, React Router, Re
 
 
 [![](https://img.shields.io/badge/linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/alamin-arif/)
-[![](https://img.shields.io/badge/facebook-blue?style=for-the-badge)](https://www.facebook.com/alaminarif231)
+[![](https://img.shields.io/badge/facebook-blue?style=for-the-badge)](https://www.facebook.com/me.alamin.arif)
 [![](https://img.shields.io/badge/twitter-blue?style=for-the-badge)](https://twitter.com/alamin__arif)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminarif)](https://github.com/anuraghazra/github-readme-stats)
