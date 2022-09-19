@@ -13,9 +13,8 @@ Skills: Html, CSS, Bootstrap, Tailwind CSS Javascript, ReactJS, React Router, Re
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Programming 
 
-[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/alaminarif)
+
 [![](https://img.shields.io/badge/linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/alamin-arif/)
-[![](https://img.shields.io/badge/instagram-blue?style=for-the-badge)](https://www.instagram.com/alamin__arif/)
 [![](https://img.shields.io/badge/facebook-blue?style=for-the-badge)](https://www.facebook.com/alaminarif231)
 [![](https://img.shields.io/badge/twitter-blue?style=for-the-badge)](https://twitter.com/alamin__arif)
 
