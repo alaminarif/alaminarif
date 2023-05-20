@@ -1,10 +1,10 @@
 ![banner](https://user-images.githubusercontent.com/91391950/172764071-eb89088a-a793-42a6-a5bd-f1abce8550ae.png)
 
 <!-- ![Frondend Web Developer](https://drive.google.com/file/d/1o5tK2QjWedfOFVOE3ZxNYw2qfLnp9Mwz/view?usp=sharing) -->
-# Hi there, 👋 I'm Al Amin Arif
-#### FullStack Web Developer
+# Hi there, 👋 I'm Arifur Rahman
+#### Full Stack Web Developer
 
-I am working as a frontend FullStack Web Developer for the last two years. I always focus on high quality service and 100% client. Love to work with any front-end related projects in any latest front-end development technology.
+I am Full Stack Web Developer from Patuakhali, Bangladesh .I am expert in HTML, CSS, Tailwind CSS, bootstrap, JavaScript, ReactJS and familiar with Redux, Next JS. I am very passionate and dedicated to my work. I able to learn new things and can adapt with new technologies in the web development sector.
 
 Skills: Html, CSS, Bootstrap, Tailwind CSS JavaScript, TypeScript, ReactJS, React Router, React Query, NestJS, firebase Authentication, NodeJS, ExpressJS, MongoDB, Mongoose, Prisma, Redux.
 
