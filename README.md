@@ -2,14 +2,14 @@
 
 <!-- ![Frondend Web Developer](https://drive.google.com/file/d/1o5tK2QjWedfOFVOE3ZxNYw2qfLnp9Mwz/view?usp=sharing) -->
 # Hi there, 👋 I'm Al Amin Arif
-#### Frondend Web Developer
+#### FullStack Web Developer
 
-I am working as a frontend web developer for the last two years. I always focus on high quality service and 100% client. Love to work with any front-end related projects in any latest front-end development technology.
+I am working as a frontend FullStack Web Developer for the last two years. I always focus on high quality service and 100% client. Love to work with any front-end related projects in any latest front-end development technology.
 
-Skills: Html, CSS, Bootstrap, Tailwind CSS Javascript, ReactJS, React Router, React Query, firebase Authentication, NodeJS, ExpressJS, MongoDB, Mongoose.
+Skills: Html, CSS, Bootstrap, Tailwind CSS JavaScript, TypeScript, ReactJS, React Router, React Query, NestJS, firebase Authentication, NodeJS, ExpressJS, MongoDB, Mongoose, Prisma, Redux.
 
 - 🔭 I’m currently working on Fiverr 
-- 🌱 I’m currently learning Redux 
+- 🌱 I’m currently learning testing 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Programming 
 
