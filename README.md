@@ -14,7 +14,7 @@ Skills: Html, CSS, Bootstrap, Tailwind CSS JavaScript, TypeScript, ReactJS, Reac
 - 💬 Ask me about Web Programming 
 
 
-[![](https://img.shields.io/badge/linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/alamin-arif/)
+[![](https://img.shields.io/badge/linkedin-blue?style=for-the-badge)](https://www.linkedin.com/in/alaminarif/)
 [![](https://img.shields.io/badge/facebook-blue?style=for-the-badge)](https://www.facebook.com/me.alamin.arif)
 [![](https://img.shields.io/badge/twitter-blue?style=for-the-badge)](https://twitter.com/alamin__arif)
 
