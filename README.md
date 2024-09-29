@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/91391950/172764071-eb89088a-a793-42a6-a5bd-f1abce8550ae.png)
+![banner](https://media.licdn.com/dms/image/v2/D5616AQECcMOt9ft04g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727599695842?e=1733356800&v=beta&t=ld6xs0zxUtflaZHHhp3Ym0fjOhX8bAFzbMmMa-00ohI)
 
 <!-- ![Frondend Web Developer](https://drive.google.com/file/d/1o5tK2QjWedfOFVOE3ZxNYw2qfLnp9Mwz/view?usp=sharing) -->
 <h1 align="center">Hi 👋, I'm Arifur Rahman</h1>
