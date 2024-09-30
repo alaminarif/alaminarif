@@ -1,8 +1,8 @@
 ![banner](https://scontent.fjsr16-2.fna.fbcdn.net/v/t39.30808-6/461658243_1954346525066252_2005380503157090199_n.png?_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEkSe6G9UEsxLGe9WcfW9yudWyBCwKGiZF1bIELAoaJkatmhPbBKHefSvd2XUb7umSvGRmsCDsJVwyvkynycpSb&_nc_ohc=lEPjibabgOMQ7kNvgH7oe3r&_nc_zt=23&_nc_ht=scontent.fjsr16-2.fna&_nc_gid=AI3D5WTLwPAN3JW0qzXw2uE&oh=00_AYCQLL5UoykMGvFAi_id2fjDV4YtAJv3WLduV9lBDM7y8g&oe=67004448)
 
 <!-- ![Frondend Web Developer](https://drive.google.com/file/d/1o5tK2QjWedfOFVOE3ZxNYw2qfLnp9Mwz/view?usp=sharing) -->
-<h1 align="center">Hi 👋, I'm Arifur Rahman</h1>
-<h3 align="center">Full Stack Web Developer from Patuakhali, Bangladesh.</h3>
+<!--<h1 align="center">Hi 👋, I'm Arifur Rahman</h1>
+<h3 align="center">Full Stack Web Developer from Patuakhali, Bangladesh.</h3> -->
 
 
 - 🌱 I’m currently learning **PostgreSQL**
