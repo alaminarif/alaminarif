@@ -1,16 +1,21 @@
-![banner](https://scontent.fjsr16-2.fna.fbcdn.net/v/t39.30808-6/461658243_1954346525066252_2005380503157090199_n.png?_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEkSe6G9UEsxLGe9WcfW9yudWyBCwKGiZF1bIELAoaJkatmhPbBKHefSvd2XUb7umSvGRmsCDsJVwyvkynycpSb&_nc_ohc=lEPjibabgOMQ7kNvgH7oe3r&_nc_zt=23&_nc_ht=scontent.fjsr16-2.fna&_nc_gid=AI3D5WTLwPAN3JW0qzXw2uE&oh=00_AYCQLL5UoykMGvFAi_id2fjDV4YtAJv3WLduV9lBDM7y8g&oe=67004448)
+![banner](/Facebook-cover.png)
 
-<!-- ![Frondend Web Developer](https://drive.google.com/file/d/1o5tK2QjWedfOFVOE3ZxNYw2qfLnp9Mwz/view?usp=sharing) -->
-<!--<h1 align="center">Hi 👋, I'm Arifur Rahman</h1>
-<h3 align="center">Full Stack Web Developer from Patuakhali, Bangladesh.</h3> -->
+<h1 align="" style="margin-top: 1.5rem">Arifur Rahman</h1>
+<h3 align="">Full Stack Web Developer </h3>
 
-- 🌱 I’m currently learning **PostgreSQL**
+<p>
+Hello! I’m Arifur Rahman. I have completed my Diploma in Engineering the department of Computer Technology from Barishal Polytechnic Institute. I have a strong skill set in front-end and back-end web development. My technical skills include HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, TypeScript, Ant Design, ReactJS, React Router, Firebase Authentication, NextJS, Next Auth, and Redux for front-end development. On the back-end, I am proficient in Node.js, Express.js, MongoDB, Mongoose, and JWT. I have applied these technologies in various projects
 
-- 👨‍💻 All of my projects are available at [https://alaminarif.netlify.app/](https://alaminarif.netlify.app/)
+</p>
 
-- 📫 How to reach me **arifurr231@gmail.com**
+- 🌍 I'm based in Patuakhali, Bangladesh
+- 🌐 See my portfolio at [https://alaminarif.netlify.app/](https://alaminarif.netlify.app/)
 
-- 📄 Know about my experiences [here](https://shorturl.at/v9Wic)
+- ✉️ You can contact me at **arifurr231@gmail.com**
+
+- 📄 See my resume at [here](https://shorturl.at/v9Wic)
+
+- 🧠 I’m currently learning **PostgreSQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
