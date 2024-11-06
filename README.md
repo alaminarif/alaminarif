@@ -1,12 +1,20 @@
+<div  align="center">
+
 ![banner](/images/github-cover.png)
+
+</div>
 
 <!-- <h1 align="" style="margin-top: 1.5rem">Arifur Rahman</h1>
 <h3 align="">Full Stack Web Developer </h3> -->
 
-<p style="text-align: justify" align="center">
+<dive style="text-align: justify" >
+<p style=" max-width: 90%; margin: 0  auto"  >
 Hello! I’m Arifur Rahman. I have completed my Diploma in Engineering the department of Computer Technology from Barishal Polytechnic Institute. I have a strong skill set in front-end and back-end web development. My technical skills include HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, TypeScript, Ant Design, ReactJS, React Router, Firebase Authentication, NextJS, Next Auth, and Redux for front-end development. On the back-end, I am proficient in Node.js, Express.js, MongoDB, Mongoose, and JWT. I have applied these technologies in various projects
 
 </p>
+</div>
+
+</dive>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -46,6 +54,8 @@ Hello! I’m Arifur Rahman. I have completed my Diploma in Engineering the depar
 
 ## 👁‍🗨 Current Overview\_
 
+<div >
+
 - 📄 See my resume at [here](https://shorturl.at/v9Wic)
 
 - 🌐 See my portfolio at [**alaminarif.netlify.app**](https://alaminarif.netlify.app/)
@@ -54,4 +64,6 @@ Hello! I’m Arifur Rahman. I have completed my Diploma in Engineering the depar
 
 - 🧠 I’m currently learning **PostgreSQL, Prisma**
 - 🌍 I'm based in Patuakhali, Bangladesh.
+
+</div>
 <!-- &nbsp; -->
