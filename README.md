@@ -1,4 +1,4 @@
-![banner](/github-cover.png)
+![banner](/images/github-cover.png)
 
 <!-- <h1 align="" style="margin-top: 1.5rem">Arifur Rahman</h1>
 <h3 align="">Full Stack Web Developer </h3> -->
@@ -21,11 +21,11 @@ Hello! I’m Arifur Rahman. I have completed my Diploma in Engineering the depar
 <p align="left">
   <a href="https://wa.link/1izfp0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="alamin__arif" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alaminarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaminarif" height="30" width="40" /></a>
-<a href="https://fb.com/me.alamin.arif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="me.alamin.arif" height="30" width="40" /></a>
+<a href="https://fb.com/alaminarif6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="me.alamin.arif" height="30" width="40" /></a>
 
 </p>
 
-<h3 align="left">Technologies I am proficient in_</h3>
+## :computer: Technologies I am proficient in\_
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -33,14 +33,20 @@ Hello! I’m Arifur Rahman. I have completed my Diploma in Engineering the depar
   </a>
 </p>
 
-<!-- ## [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,mui,react,firebase,next,redux,nodejs,express,mongodb,postgres,prisma&perline=8)](https://skillicons.dev) -->
+<br/>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaminarif&show_icons=true&theme=dark" alt="alaminarif" /></p> -->
+## :chart_with_upwards_trend: Current Statistical Overview\_
 
-<div style="display: flex" >
-<p style="margin-right: 10px"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alaminarif&show_icons=true&theme=dark" alt="alaminarif" /></p>
+<!-- <div style="display: flex" > -->
+<!-- <p style="margin-right: 10px"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alaminarif&show_icons=true&theme=dark" alt="alaminarif" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alaminarif&show_icons=true&theme=dark" alt="alaminarif" /></p>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alaminarif&show_icons=true&theme=dark" alt="alaminarif" /></p> -->
+
+<p align="left" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alaminarif&theme=react&hide_border=true&background=161C27&stroke=0D1117&fire=fb8c00&sideLabels=fff&currStreakNum=fff&ring=fff&currStreakLabel=fff&sideNums=fff" style="height: 200px; width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alaminarif&theme=dark&hide_border=true&bg_color=161C27&stroke=0D1117&show_icons=true&icon_color=fb8c00&text_color=fff" style="height: 200px; width: 45%;" />
+
+</p>
+<!-- </div> -->
 
 <!-- &nbsp; -->
