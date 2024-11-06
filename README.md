@@ -7,12 +7,10 @@
 <!-- <h1 align="" style="margin-top: 1.5rem">Arifur Rahman</h1>
 <h3 align="">Full Stack Web Developer </h3> -->
 
-<dive style="text-align: justify" >
-<p style=" max-width: 90%; margin: 0  auto"  >
+<p style=" max-width: 90%; text-align: justify; margin: 0  auto"  >
 Hello! I’m Arifur Rahman. I have completed my Diploma in Engineering the department of Computer Technology from Barishal Polytechnic Institute. I have a strong skill set in front-end and back-end web development. My technical skills include HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, TypeScript, Ant Design, ReactJS, React Router, Firebase Authentication, NextJS, Next Auth, and Redux for front-end development. On the back-end, I am proficient in Node.js, Express.js, MongoDB, Mongoose, and JWT. I have applied these technologies in various projects
 
 </p>
-</div>
 
 </dive>
 
