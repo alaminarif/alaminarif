@@ -7,10 +7,10 @@
 <!-- <h1 align="" style="margin-top: 1.5rem">Arifur Rahman</h1>
 <h3 align="">Full Stack Web Developer </h3> -->
 
-<p style=" max-width: 90%; text-align: justify; margin: 0  auto"  >
+<!-- <p style=" max-width: 90%; text-align: justify; margin: 0  auto"  >
 Hello! I’m Arifur Rahman. I have completed my Diploma in Engineering the department of Computer Technology from Barishal Polytechnic Institute. I have a strong skill set in front-end and back-end web development. My technical skills include HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, TypeScript, Ant Design, ReactJS, React Router, Firebase Authentication, NextJS, Next Auth, and Redux for front-end development. On the back-end, I am proficient in Node.js, Express.js, MongoDB, Mongoose, and JWT. I have applied these technologies in various projects
 
-</p>
+</p> -->
 
 </dive>
 
@@ -37,18 +37,12 @@ Hello! I’m Arifur Rahman. I have completed my Diploma in Engineering the depar
 ## :chart_with_upwards_trend: Current Statistical Overview\_
 
 <br/>
-<!-- <div style="display: flex" > -->
-<!-- <p style="margin-right: 10px"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alaminarif&show_icons=true&theme=dark" alt="alaminarif" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alaminarif&show_icons=true&theme=dark" alt="alaminarif" /></p> -->
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=alaminarif&theme=react&hide_border=true&background=161C27&stroke=0D1117&fire=fb8c00&sideLabels=fff&currStreakNum=fff&ring=fff&currStreakLabel=fff&sideNums=fff" style="height: 200px; width: 45%;" />
   <img src="https://github-readme-stats.vercel.app/api?username=alaminarif&theme=dark&hide_border=true&bg_color=161C27&stroke=0D1117&show_icons=true&icon_color=fb8c00&text_color=fff" style="height: 200px; width: 45%;" />
 
 </p>
-
-<!-- </div> -->
 
 ## 👁‍🗨 Current Overview\_
 
