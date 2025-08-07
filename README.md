@@ -55,7 +55,7 @@ Hello! I’m Arifur Rahman. I have completed my Diploma in Engineering the depar
 - ✉️ You can contact me at **arifurr231@gmail.com**
 
 - 🧠 I’m currently learning **PostgreSQL, Prisma**
-- 🌍 I'm based in Patuakhali, Bangladesh.
+- 🌍 I'm based in Dhaka, Bangladesh.
 
 </div>
 <!-- &nbsp; -->
