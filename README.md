@@ -16,7 +16,8 @@ Hello! I’m Arifur Rahman. I have completed my Diploma in Engineering the depar
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="https://wa.link/1izfp0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="alamin__arif" height="30" width="40" /></a>
+  <a href="https://wa.link/1izfp0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="alamin__arif" height="30" width="40" />
+  </a>
 <a href="https://linkedin.com/in/alaminarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaminarif" height="30" width="40" /></a>
 <a href="https://fb.com/alaminarif6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="me.alamin.arif" height="30" width="40" /></a>
 
@@ -37,18 +38,22 @@ Hello! I’m Arifur Rahman. I have completed my Diploma in Engineering the depar
 ## :chart_with_upwards_trend: Current Statistical Overview\_
 
 <br/>
+<!-- <img width="845"  src="https://nirzak-streak-stats.vercel.app?user=alaminarif&hide_border=true&border_radius=5&card_width=800&theme=radical"> -->
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
+
   <img src="https://github-readme-streak-stats.herokuapp.com?user=alaminarif&theme=react&hide_border=true&background=161C27&stroke=0D1117&fire=fb8c00&sideLabels=fff&currStreakNum=fff&ring=fff&currStreakLabel=fff&sideNums=fff" style="height: 200px; width: 45%;" />
   <img src="https://github-readme-stats.vercel.app/api?username=alaminarif&theme=dark&hide_border=true&bg_color=161C27&stroke=0D1117&show_icons=true&icon_color=fb8c00&text_color=fff" style="height: 200px; width: 45%;" />
 
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=alaminarif&color=brightgreen&style=plasti&theme=dark" alt="muhammadranju" /> <br>
+
 ## 👁‍🗨 Current Overview\_
 
 <div >
 
-- 📄 See my resume at [here](https://shorturl.at/v9Wic)
+- 📄 See my resume at [here](https://drive.google.com/file/d/1L34wzcaPVzy605T98THF0e9SmUCLKz6a/view?usp=drive_link)
 
 - 🌐 See my portfolio at [**alaminarif.netlify.app**](https://alaminarif.netlify.app/)
 
