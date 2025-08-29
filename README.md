@@ -40,25 +40,10 @@ environment.
 ## :chart_with_upwards_trend: Current Statistical Overview\_
 
 <br/>
-<!-- <img width="845"  src="https://nirzak-streak-stats.vercel.app?user=alaminarif&hide_border=true&border_radius=5&card_width=800&theme=radical"> -->
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=alaminarif&theme=react&hide_border=true&background=161C27&stroke=0D1117&fire=fb8c00&sideLabels=fff&currStreakNum=fff&ring=fff&currStreakLabel=fff&sideNums=fff" style="height: 200px; width: 45%" /> -->
-
-<!-- <p align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
-
- <img src="https://nirzak-streak-stats.vercel.app?user=alaminarif&theme=react&hide_border=true&background=161C27&stroke=0D1117&fire=fb8c00&sideLabels=fff&currStreakNum=fff&ring=fff&currStreakLabel=fff&sideNums=fff" style="height: 200px; width: 45%" />
- <img src="https://github-readme-stats.vercel.app/api?username=alaminarif&theme=dark&hide_border=true&bg_color=161C27&stroke=0D1117&show_icons=true&icon_color=fb8c00&text_color=fff" style="height: 200px; width: 45%;" />
-
-</p> -->
-
-<p align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
-
-  <picture style="height: 200px; width: 45%;">
-    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=alaminarif&theme=react&hide_border=true&background=161C27&stroke=0D1117&fire=fb8c00&sideLabels=fff&currStreakNum=fff&ring=fff&currStreakLabel=fff&sideNums=fff" />
-   <img src="https://nirzak-streak-stats.vercel.app?user=alaminarif&theme=react&hide_border=true&background=161C27&stroke=0D1117&fire=fb8c00&sideLabels=fff&currStreakNum=fff&ring=fff&currStreakLabel=fff&sideNums=fff" style="height: 200px; width: 45%" />
-  </picture>
- <img src="https://github-readme-stats.vercel.app/api?username=alaminarif&theme=dark&hide_border=true&bg_color=161C27&stroke=0D1117&show_icons=true&icon_color=fb8c00&text_color=fff" style="height: 200px; width: 45%;" />
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alaminarif&theme=react&hide_border=true&background=161C27&stroke=0D1117&fire=fb8c00&sideLabels=fff&currStreakNum=fff&ring=fff&currStreakLabel=fff&sideNums=fff" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alaminarif&theme=dark&hide_border=true&bg_color=161C27&stroke=0D1117&show_icons=true&icon_color=fb8c00&text_color=fff" alt="GitHub Stats" />
 </p>
 
 ## 👁‍🗨 Current Overview\_
